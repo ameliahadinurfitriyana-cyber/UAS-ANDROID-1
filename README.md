@@ -1,13 +1,11 @@
 # To-do List App 👋
 
-![Version](https://img.shields.io/badge/version-1.0.0+1-blue.svg?cacheSeconds=2592000)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)<br>
 Project UAS Mtakuliah Android1
 Nama : Ameliahadi <br>
 Nim : 23040034 <br>
 Fakultas Ilmu Komputer | Teknik Informatika <br>
 # Flutter Version
-Flutter 1.22.3
+Flutter 3.38.5
 
 # Screenshots
 
